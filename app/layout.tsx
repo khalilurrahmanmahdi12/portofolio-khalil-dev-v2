@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "KHALIL DEV | Software Engineer - Full Stack Developer",
+  title: "Portofolio Khalil Dev V2",
   description:
-    "Portfolio KHALIL DEV, Software Engineer - Full Stack Developer dengan fokus Next.js, backend architecture, database performance, dan cloud deployment.",
+    "Portofolio Khalil Dev V2, Software Engineer - Full Stack Developer dengan fokus Next.js, backend architecture, database performance, dan cloud deployment.",
   other: {
     "codex-preview": "development",
   },
